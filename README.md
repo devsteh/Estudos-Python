@@ -1,1 +1,2 @@
-#Revisão e estudos de programação com a linguagem Python :snake:
+# Revisão e estudos de programação com a linguagem Python :snake:
+
