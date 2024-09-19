@@ -10,4 +10,6 @@ def exibir_mensagem3(nome="Anônimo"):
 exibir_mensagem()
 exibir_mensagem2(nome="Ste")
 exibir_mensagem3() #se não for apontado algum valor, retornará o que foi atribuido na função
-exibir_mensagem3(nome="Stephany") #Caso contrário, será retornado o valor passado na chamada da funçào
+exibir_mensagem3(nome="Stephany") #Caso contrário, será retornado o valor passado na chamada da função
+
+

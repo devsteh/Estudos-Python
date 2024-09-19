@@ -9,4 +9,4 @@ Estou aprendendo Python.
 print(mensagem)
 
 curso = "Python"
-print(curso[::-1]) 
+print(curso[::-1]) #Print ao contrário
