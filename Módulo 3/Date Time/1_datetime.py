@@ -1,5 +1,5 @@
 from datetime import date, datetime, time
-#Forma mais prática da importação
+#Forma mais prática da importação da funções
 
 data = (date(2024, 10, 5))
 print(data)
